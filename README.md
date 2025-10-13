@@ -9,6 +9,7 @@
 ### 🧩 About Me
 
 I’m a third-year **Information Systems Engineering student at the Technion**, blending data analysis, programming, and design thinking to build meaningful, data-driven systems.  
+
 Curious by nature and structured by training, I enjoy turning complex problems into clear, elegant solutions — whether through SQL queries, Python scripts, or UX prototypes.
 
 I thrive at the intersection of **data, logic, and creativity**, and believe that good engineering is not only about code efficiency but also about human impact.
