@@ -1,6 +1,4 @@
-## hello There 👋
-
-# I'm Lior Ben Sidi
+## Hello There 👋, I'm Lior Ben Sidi
 
 **Information Systems Engineering student**, passionate about transforming data into intelligent, human-centered solutions — from databases to dashboards — with strong multi-language programming skills and hands-on experience in Linux environments.
 
