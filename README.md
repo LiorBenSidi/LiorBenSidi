@@ -46,7 +46,7 @@ Performed exploratory data analysis, hypothesis testing, and built a classifier 
 ### 🎓 Education
 
 **Technion – Israel Institute of Technology**  
-- B.Sc. in Information Systems Engineering student (Expected 2027)
+- B.Sc. in Information Systems Engineering student at the Technion (Expected 2027),
   Faculty of Data and Decision Science
 
 **Additional Coursework:**  
