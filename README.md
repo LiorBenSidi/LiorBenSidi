@@ -38,7 +38,7 @@ Applied UX/UI and interaction design to redesign the Technion SAP degree-request
 #### [Intro to Data Analysis Project](https://github.com/LiorBenSidi/Mini-Project)
 Performed exploratory data analysis, hypothesis testing, and built a classifier to predict key patterns in dataset behavior, resulting in a comprehensive data-driven report.
 
-#### [Built AI Agents](https://github.com/LiorBenSidi/HW_AI)
+#### [AI Agents](https://github.com/LiorBenSidi/HW_AI)
 - Built a multi-agent A* planner with domain-specific heuristics for fast, near-optimal scheduling.
 - Developed a knowledge-based inference system under partial observability.
 - Implemented stochastic MDP agents with heuristic and optimal Value Iteration policies.
