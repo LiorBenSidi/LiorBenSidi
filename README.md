@@ -60,7 +60,6 @@ Performed exploratory data analysis, hypothesis testing, and built a classifier 
 
 📫 **Email:** [lior.bensidi@gmail.com](mailto:lior.bensidi@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/lior-ben-sidi](https://www.linkedin.com/in/lior-ben-sidi/)  
-💻 **GitHub:** [github.com/LiorBenSidi](https://github.com/LiorBenSidi)
 
 ---
 
