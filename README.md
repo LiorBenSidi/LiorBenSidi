@@ -25,15 +25,13 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 
 ---
 
-### 💼 Projects
-
-> *(Detailed descriptions for each will be added later — these are placeholders for now.)*
+### 💼 Projects & Assignments
 
 #### [Database Management System](https://github.com/LiorBenSidi/Final_Project)
 Developed an ERD-based relational system in SQL Server with a normalized schema, constraints, views, and complex queries with basic optimization, along with a Django app that includes validated forms and HTML/CSS, emphasizing data integrity.
 
 #### [Human-Centered Design Portal](https://github.com/LiorBenSidi/UX-Final_Project)
-Applied UX/UI and interaction design to redesign the Technion SAP degree-request portal, Involved user research, Figma prototyping, and usability testing.
+Applied UX/UI and interaction design to redesign the Technion SAP degree-request portal, involving user research, Figma prototyping, and usability testing.
 
 #### [Intro to Data Analysis Project](https://github.com/LiorBenSidi/Mini-Project)
 Performed exploratory data analysis, hypothesis testing, and built a classifier to predict key patterns in dataset behavior, resulting in a comprehensive data-driven report.
@@ -42,8 +40,6 @@ Performed exploratory data analysis, hypothesis testing, and built a classifier 
 - Built a multi-agent A* planner with domain-specific heuristics for fast, near-optimal scheduling.
 - Developed a knowledge-based inference system under partial observability.
 - Implemented stochastic MDP agents with heuristic and optimal Value Iteration policies.
-
-*(More projects coming soon…)*
 
 ---
 
