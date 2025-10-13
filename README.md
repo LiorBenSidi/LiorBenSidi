@@ -18,12 +18,12 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 
 ### 🧠 Technical Skills
 
-**Programming:** Python, Java, C, SQL, Shell scripting  
-**Data & BI:** Data modeling, ETL, Tableau, Excel  
-**Web & Databases:** Django, HTML/CSS, relational schema design, SQL Server  
-**Operating Systems:** Windows, Linux (Ubuntu, WSL)  
-**Core Concepts:** OOP, algorithms, system design, UX/UI, data analysis  
-**Soft Skills:** Analytical thinking, collaboration, adaptability, and attention to detail  
+- **Programming:** Python, Java, C, R, SQL, Shell scripting  
+- **Data & BI:** Data modeling, ETL, Tableau, Excel  
+- **Web & Databases:** Django, HTML/CSS, relational schema design, SQL Server  
+- **Operating Systems:** Windows, Linux (Ubuntu, WSL)  
+- **Core Concepts:** OOP, algorithms, system design, UX/UI, data analysis  
+- **Soft Skills:** Analytical thinking, collaboration, adaptability, and attention to detail  
 
 ---
 
