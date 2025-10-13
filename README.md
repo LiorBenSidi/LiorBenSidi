@@ -14,7 +14,7 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 
 ---
 
-### 🧠 Technical Skills
+### 🧠 Technical & Soft Skills
 
 - **Programming:** Python, Java, C, R, SQL, Shell scripting  
 - **Data & BI:** Data modeling, ETL, Tableau, Excel  
