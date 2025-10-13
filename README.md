@@ -47,9 +47,10 @@ Performed exploratory data analysis, hypothesis testing, and built a classifier 
 ### 🎓 Education
 
 **Technion – Israel Institute of Technology**  
-B.Sc. in Information Systems Engineering (Expected 2027)  
+- B.Sc. in Information Systems Engineering student (Expected 2027)
+  Faculty of Data and Decision Science
 
-Additional Coursework:  
+**Additional Coursework:**  
 - *Databases and SQL for Data Science with Python* (IBM & Coursera)
 - *Hands-on Introduction to Linux Commands and Shell Scripting* (IBM & Coursera)
 - *Career Essentials in Generative AI by Microsoft and LinkedIn* (Microsoft & LinkedIn)
@@ -63,9 +64,6 @@ Additional Coursework:
 💻 **GitHub:** [github.com/LiorBenSidi](https://github.com/LiorBenSidi)
 
 ---
-
-⭐ *“Code is only as good as the insight it reveals.”*
-
 
 <!--
 **LiorBenSidi/LiorBenSidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
