@@ -57,7 +57,7 @@ Enhanced proficiency in Java, algorithm optimization, and data structure design.
   • Derived the multiclass logistic regression formulation and applied it to probabilistic classification.
   • Ran a cross-validation SVM pipeline on Fashion-MNIST to tune hyperparameters and evaluate accuracy.
 
-#### C Programming Course - Homework Assignments:
+#### C Programming Course - Homework Assignments: [HW1](https://github.com/LiorBenSidi/HW1_094704_new) |
 ---
 
 ### 🎓 Education
