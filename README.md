@@ -47,15 +47,15 @@ Implemented OOP-based classes (Runner, Run, Race) supporting insertion, deletion
 Enhanced proficiency in Java, algorithm optimization, and data structure design.
 
 #### Machine Learning 1 Course – Homework Assignments: [HW1](https://github.com/LiorBenSidi/HW1_ML1) | [HW2](https://github.com/LiorBenSidi/HW2_ML1) | [HW3](https://github.com/LiorBenSidi/HW3_ML1) | [HW4](https://github.com/LiorBenSidi/HW4_ML1)
--Completed four intensive assignments exploring core Machine Learning algorithms in Python.
--What we explored:
-  • Built a multi-class k-NN classifier from scratch with full support for Minkowski distances and smart tie-breaking.
-  • Investigated bias-variance tradeoffs, learning curves, and model complexity using synthetic data.
-  • Analyzed Soft SVMs with linear and polynomial kernels and visualized decision boundaries and margins.
-  • Implemented both multi-class and kernelized Perceptron algorithms and evaluated performance on real datasets.
-  • Worked with gradient descent, SGD, and RLM to optimize convex loss functions and understand regularization.
-  • Derived the multiclass logistic regression formulation and applied it to probabilistic classification.
-  • Ran a cross-validation SVM pipeline on Fashion-MNIST to tune hyperparameters and evaluate accuracy.
+Completed four intensive assignments exploring core Machine Learning algorithms in Python.<br/>
+What we explored:<br/>
+  - Built a multi-class k-NN classifier from scratch with full support for Minkowski distances and smart tie-breaking.
+  - Investigated bias-variance tradeoffs, learning curves, and model complexity using synthetic data.
+  - Analyzed Soft SVMs with linear and polynomial kernels and visualized decision boundaries and margins.
+  - Implemented both multi-class and kernelized Perceptron algorithms and evaluated performance on real datasets.
+  - Worked with gradient descent, SGD, and RLM to optimize convex loss functions and understand regularization.
+  - Derived the multiclass logistic regression formulation and applied it to probabilistic classification.
+  - Ran a cross-validation SVM pipeline on Fashion-MNIST to tune hyperparameters and evaluate accuracy.
 
 #### C Programming Course - Homework Assignments: [HW1](https://github.com/LiorBenSidi/HW1_094704_new) | [HW2](https://github.com/LiorBenSidi/HW2_094704) | [HW3](https://github.com/LiorBenSidi/HW3_094704)
 
