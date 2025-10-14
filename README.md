@@ -65,7 +65,9 @@ Implemented k-NN, SVM, Perceptron, and Logistic Regression from scratch; analyze
 
 <hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
 
-#### Probabilistic Graphical Models Course – Homework Assignments: [HW1]() [HW2]() [HW3]()
+#### Probabilistic Graphical Models Course – [Homework Assignments](https://github.com/LiorBenSidi/Probabilistic_Graphical_Models_Course-HW)
+Explored Bayesian networks, Markov networks, and Hidden Markov Models (HMMs) through theoretical proofs and Python implementation using pgmpy.<br/>
+Proved conditional independence and d-separation properties, modeled COVID-19 spread with Bayesian inference and variable elimination, compared heuristic strategies (Min-Degree, Min-Fill), and implemented the EM algorithm for HMM parameter learning.
 
 <hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
 
