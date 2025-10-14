@@ -54,7 +54,15 @@ Implemented k-NN, SVM, Perceptron, and Logistic Regression from scratch; analyze
 Completed a series of programming assignments in C, focusing on low-level programming, pointer manipulation, memory management, and algorithmic design.<br/>
 Built set operations, a change-making algorithm, and linked-list-based data structures, gaining practical experience in dynamic allocation and efficient low-level programming.
 
-#### Software Engineering Course - Homework Assignments: [HW0](https://github.com/LiorBenSidi/HW0LiorAndYarin), [HW1](https://github.com/LiorBenSidi/HW1LiorAndYarin), [HW2](https://github.com/LiorBenSidi/HW2LiorAndYarin), [HW3](https://github.com/LiorBenSidi/NewHW3LiorAndYarin), [HW4](https://github.com/LiorBenSidi/HW4LiorAndYarin)
+#### Software Engineering Course - Homework Assignments: [HW0](https://github.com/LiorBenSidi/HW0LiorAndYarin) | [HW1](https://github.com/LiorBenSidi/HW1LiorAndYarin) | [HW2](https://github.com/LiorBenSidi/HW2LiorAndYarin) | [HW3](https://github.com/LiorBenSidi/NewHW3LiorAndYarin) | [HW4](https://github.com/LiorBenSidi/HW4LiorAndYarin)
+Completed a series of Java programming assignments emphasizing object-oriented design, data structures, and software abstraction.<br/>
+What we explored:<br/>
+- Implemented the Battleship game using procedural logic and input validation.
+- Built an AI-based Sliding Puzzle solver with heuristic search (Greedy BFS).
+- Developed a class hierarchy for mathematical functions, applying inheritance, polymorphism, and root-finding algorithms like Newton–Raphson and Bisection.
+- Designed generic data structures, including stacks and playlist systems with iterators, filters, and cloning mechanisms.
+- Explored recursion, binary trees, and parallel programming concepts by simulating a synchronized multi-threaded database system.
+- Gained hands-on experience in OOP, JavaDoc, exception handling, and modular software engineering.
 
 ---
 
