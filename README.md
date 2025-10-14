@@ -30,6 +30,8 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 #### Database Management Course - [Relational Database Management System](https://github.com/LiorBenSidi/Final_Project)
 Developed an ERD-based relational system in SQL Server with a normalized schema, constraints, views, and complex queries with basic optimization, along with a Django app that includes validated forms and HTML/CSS, emphasizing data integrity.
 
+<p align="center">⭐</p>
+
 #### Human Factors Engineering Course - [Human-Centered Design Portal](https://github.com/LiorBenSidi/UX-Final_Project)
 Applied UX/UI and interaction design to redesign the Technion SAP degree-request portal, involving user research, Figma prototyping, and usability testing.
 
