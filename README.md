@@ -46,7 +46,7 @@ Built a dynamic Java data structure to manage and query runners’ statistics, u
 Implemented OOP-based classes (Runner, Run, Race) supporting insertion, deletion, and statistical queries with logarithmic complexity.<br/>
 Enhanced proficiency in Java, algorithm optimization, and data structure design.
 
-#### Machine Learning 1 Course – Homework Assignments: [HW1](https://github.com/LiorBenSidi/HW1_ML1) | [HW2](https://github.com/LiorBenSidi/HW2_ML1) | [HW3](https://github.com/LiorBenSidi/HW3_ML1) [HW4](https://github.com/LiorBenSidi/HW4_ML1)
+#### Machine Learning 1 Course – Homework Assignments: [HW1](https://github.com/LiorBenSidi/HW1_ML1) | [HW2](https://github.com/LiorBenSidi/HW2_ML1) | [HW3](https://github.com/LiorBenSidi/HW3_ML1) | [HW4](https://github.com/LiorBenSidi/HW4_ML1)
 -Completed four intensive assignments exploring core Machine Learning algorithms in Python.
 -What we explored:
   • Built a multi-class k-NN classifier from scratch with full support for Minkowski distances and smart tie-breaking.
@@ -57,7 +57,7 @@ Enhanced proficiency in Java, algorithm optimization, and data structure design.
   • Derived the multiclass logistic regression formulation and applied it to probabilistic classification.
   • Ran a cross-validation SVM pipeline on Fashion-MNIST to tune hyperparameters and evaluate accuracy.
 
-
+#### C Programming Course - Homework Assignments:
 ---
 
 ### 🎓 Education
