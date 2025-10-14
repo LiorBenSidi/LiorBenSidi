@@ -27,7 +27,7 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 
 ### Projects & Assignments
 
-The following projects and coursework assignments are available as individual repositories on my GitHub. <br/>
+>The following projects and coursework assignments are available as individual repositories on my GitHub. <br/>
 Each title below links directly to its corresponding repository — feel free to explore the code, documentation, and detailed project descriptions for more insights.
 
 #### Database Management Course - [Relational Database Management System](https://github.com/LiorBenSidi/Final_Project)
