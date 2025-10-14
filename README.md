@@ -86,6 +86,8 @@ What we explored:<br/>
 - B.Sc. in Information Systems Engineering student at the Technion (Expected 2027) <br/>
   Faculty of Data and Decision Science
 
+<hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
+
 **Additional Coursework:**  
 - *Databases and SQL for Data Science with Python* (IBM & Coursera)
 - *Hands-on Introduction to Linux Commands and Shell Scripting* (IBM & Coursera)
