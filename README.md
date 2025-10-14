@@ -4,7 +4,7 @@
 
 ---
 
-### 🧩 About Me
+### About Me
 
 I’m a third-year **Information Systems Engineering student at the Technion**, blending data analysis, programming, and design thinking to build meaningful, data-driven systems.  
 
@@ -14,7 +14,7 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 
 ---
 
-### 🧠 Technical & Soft Skills
+### Technical & Soft Skills
 
 - **Programming:** Python, Java, C, R, SQL, Shell scripting  
 - **Data & BI:** Data modeling, ETL, Tableau, Excel  
@@ -25,7 +25,7 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 
 ---
 
-### 💼 Projects & Assignments
+### Projects & Assignments
 
 #### Database Management Course - [Relational Database Management System](https://github.com/LiorBenSidi/Final_Project)
 Developed an ERD-based relational system in SQL Server with a normalized schema, constraints, views, and complex queries with basic optimization, along with a Django app that includes validated forms and HTML/CSS, emphasizing data integrity.
@@ -66,7 +66,7 @@ What we explored:<br/>
 
 ---
 
-### 🎓 Education
+### Education
 
 **Technion – Israel Institute of Technology**  
 - B.Sc. in Information Systems Engineering student at the Technion (Expected 2027) <br/>
@@ -81,8 +81,8 @@ What we explored:<br/>
 
 ### 🤝 Let’s Connect
 
-📫 **Email:** [lior.bensidi@gmail.com](mailto:lior.bensidi@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/lior-ben-sidi](https://www.linkedin.com/in/lior-ben-sidi/)  
+**Email:** [lior.bensidi@gmail.com](mailto:lior.bensidi@gmail.com)  
+**LinkedIn:** [linkedin.com/in/lior-ben-sidi](https://www.linkedin.com/in/lior-ben-sidi/)  
 
 ---
 
