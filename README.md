@@ -35,26 +35,38 @@ Developed an ERD-based relational system in SQL Server with a normalized schema,
 #### Human Factors Engineering Course - [Human-Centered Design Portal](https://github.com/LiorBenSidi/UX-Final_Project)
 Applied UX/UI and interaction design to redesign the Technion SAP degree-request portal, involving user research, Figma prototyping, and usability testing.
 
+<hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
+
 #### Intro to Data Analysis Course - [Final Project](https://github.com/LiorBenSidi/Mini-Project)
 Performed exploratory data analysis, hypothesis testing, and built a classifier to predict key patterns in dataset behavior, resulting in a comprehensive data-driven report.
+
+<hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
 
 #### Foundations and Applications of AI Course - [AI Agents](https://github.com/LiorBenSidi/HW_AI)
 - Built a multi-agent A* planner with domain-specific heuristics for fast, near-optimal scheduling.
 - Developed a knowledge-based inference system under partial observability.
 - Implemented stochastic MDP agents with heuristic and optimal Value Iteration policies.
 
+<hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
+
 #### Data Structures & Algorithms Course - [Java Programming Assignment](https://github.com/LiorBenSidi/DS-Alg_Project)
 Built a dynamic Java data structure to manage and query runners’ statistics, using 2–3 balanced trees for efficient operations.<br/>
 Implemented OOP-based classes (Runner, Run, Race) supporting insertion, deletion, and statistical queries with logarithmic complexity.<br/>
 Enhanced proficiency in Java, algorithm optimization, and data structure design.
 
+<hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
+
 #### Machine Learning 1 Course – Homework Assignments: [HW1](https://github.com/LiorBenSidi/HW1_ML1) | [HW2](https://github.com/LiorBenSidi/HW2_ML1) | [HW3](https://github.com/LiorBenSidi/HW3_ML1) | [HW4](https://github.com/LiorBenSidi/HW4_ML1)
 Completed a series of assignments exploring core Machine Learning algorithms in Python.<br/>
 Implemented k-NN, SVM, Perceptron, and Logistic Regression from scratch; analyzed bias–variance tradeoffs, optimized models with SGD, and evaluated results on real datasets such as Fashion-MNIST.
 
+<hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
+
 #### C Programming Course - Homework Assignments: [HW1](https://github.com/LiorBenSidi/HW1_094704_new) | [HW2](https://github.com/LiorBenSidi/HW2_094704) | [HW3](https://github.com/LiorBenSidi/HW3_094704)
 Completed a series of programming assignments in C, focusing on low-level programming, pointer manipulation, memory management, and algorithmic design.<br/>
 Built set operations, a change-making algorithm, and linked-list-based data structures, gaining practical experience in dynamic allocation and efficient low-level programming.
+
+<hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
 
 #### Software Engineering Course - Homework Assignments: [HW0](https://github.com/LiorBenSidi/HW0LiorAndYarin) | [HW1](https://github.com/LiorBenSidi/HW1LiorAndYarin) | [HW2](https://github.com/LiorBenSidi/HW2LiorAndYarin) | [HW3](https://github.com/LiorBenSidi/NewHW3LiorAndYarin) | [HW4](https://github.com/LiorBenSidi/HW4LiorAndYarin)
 Completed a series of Java programming assignments emphasizing object-oriented design, data structures, and software abstraction.<br/>
