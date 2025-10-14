@@ -28,7 +28,8 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 ### 💼 Projects & Assignments
 
 #### [Database Management System](https://github.com/LiorBenSidi/Final_Project)
-Developed an ERD-based relational system in SQL Server with a normalized schema, constraints, views, and complex queries with basic optimization, along with a Django app that includes validated forms and HTML/CSS, emphasizing data integrity.
+Developed an ERD-based relational system in SQL Server with a normalized schema, constraints, views, and complex queries with basic optimization,
+along with a Django app that includes validated forms and HTML/CSS, emphasizing data integrity.
 
 #### [Human-Centered Design Portal](https://github.com/LiorBenSidi/UX-Final_Project)
 Applied UX/UI and interaction design to redesign the Technion SAP degree-request portal, involving user research, Figma prototyping, and usability testing.
@@ -40,6 +41,13 @@ Performed exploratory data analysis, hypothesis testing, and built a classifier 
 - Built a multi-agent A* planner with domain-specific heuristics for fast, near-optimal scheduling.
 - Developed a knowledge-based inference system under partial observability.
 - Implemented stochastic MDP agents with heuristic and optimal Value Iteration policies.
+
+#### [Data Structures & Algorithms – Java Programming Assignment](https://github.com/LiorBenSidi/DS-Alg_Project)
+Built a dynamic Java data structure to manage and query runners’ statistics, using 2–3 balanced trees for efficient operations.
+Implemented OOP-based classes (Runner, Run, Race) supporting insertion, deletion, and statistical queries with logarithmic complexity.
+Enhanced proficiency in Java, algorithm optimization, and data structure design.
+
+
 
 ---
 
