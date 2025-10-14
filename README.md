@@ -54,6 +54,8 @@ Implemented k-NN, SVM, Perceptron, and Logistic Regression from scratch; analyze
 Completed a series of programming assignments in C, focusing on low-level programming, pointer manipulation, memory management, and algorithmic design.<br/>
 Built set operations, a change-making algorithm, and linked-list-based data structures, gaining practical experience in dynamic allocation and efficient low-level programming.
 
+#### Software Engineering Course - Homework Assignments: [HW0](https://github.com/LiorBenSidi/HW0LiorAndYarin), [HW1](), [HW2](https://github.com/LiorBenSidi/HW2LiorAndYarin), [HW3](https://github.com/LiorBenSidi/NewHW3LiorAndYarin), [HW4](https://github.com/LiorBenSidi/HW4LiorAndYarin)
+
 ---
 
 ### 🎓 Education
