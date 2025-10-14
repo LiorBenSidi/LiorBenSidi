@@ -27,26 +27,26 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 
 ### 💼 Projects & Assignments
 
-#### [Database Management System](https://github.com/LiorBenSidi/Final_Project)
+#### Database Management Course - [Relational Database Management System](https://github.com/LiorBenSidi/Final_Project)
 Developed an ERD-based relational system in SQL Server with a normalized schema, constraints, views, and complex queries with basic optimization, along with a Django app that includes validated forms and HTML/CSS, emphasizing data integrity.
 
-#### [Human-Centered Design Portal](https://github.com/LiorBenSidi/UX-Final_Project)
+#### Human Factors Engineering Course - [Human-Centered Design Portal](https://github.com/LiorBenSidi/UX-Final_Project)
 Applied UX/UI and interaction design to redesign the Technion SAP degree-request portal, involving user research, Figma prototyping, and usability testing.
 
-#### [Intro to Data Analysis Project](https://github.com/LiorBenSidi/Mini-Project)
+#### Intro to Data Analysis Course - [Final Project](https://github.com/LiorBenSidi/Mini-Project)
 Performed exploratory data analysis, hypothesis testing, and built a classifier to predict key patterns in dataset behavior, resulting in a comprehensive data-driven report.
 
-#### [AI Agents](https://github.com/LiorBenSidi/HW_AI)
+#### Foundations and Applications of AI Course - [AI Agents](https://github.com/LiorBenSidi/HW_AI)
 - Built a multi-agent A* planner with domain-specific heuristics for fast, near-optimal scheduling.
 - Developed a knowledge-based inference system under partial observability.
 - Implemented stochastic MDP agents with heuristic and optimal Value Iteration policies.
 
-#### [Data Structures & Algorithms – Java Programming Assignment](https://github.com/LiorBenSidi/DS-Alg_Project)
+#### Data Structures & Algorithms Course - [Java Programming Assignment](https://github.com/LiorBenSidi/DS-Alg_Project)
 Built a dynamic Java data structure to manage and query runners’ statistics, using 2–3 balanced trees for efficient operations.<br/>
 Implemented OOP-based classes (Runner, Run, Race) supporting insertion, deletion, and statistical queries with logarithmic complexity.<br/>
 Enhanced proficiency in Java, algorithm optimization, and data structure design.
 
-#### Machine Learning 1 – Homework Assignments: [HW1](https://github.com/LiorBenSidi/HW1_ML1) | [HW2](https://github.com/LiorBenSidi/HW2_ML1)
+#### Machine Learning 1 Course – Homework Assignments: [HW1](https://github.com/LiorBenSidi/HW1_ML1) | [HW2](https://github.com/LiorBenSidi/HW2_ML1) | [HW3](https://github.com/LiorBenSidi/HW3_ML1) [HW4](https://github.com/LiorBenSidi/HW4_ML1)
 -Completed four intensive assignments exploring core Machine Learning algorithms in Python.
 -What we explored:
   • Built a multi-class k-NN classifier from scratch with full support for Minkowski distances and smart tie-breaking.
