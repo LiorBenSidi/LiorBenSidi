@@ -6,19 +6,23 @@
 
 ### About Me
 
-I’m a third-year **Information Systems Engineering student at the Technion**, blending data analysis, programming, and design thinking to build meaningful, data-driven systems.  
+I’m a **third-year Information Systems Engineering student at the Technion**, blending data analysis, programming, and design thinking to build meaningful, data-driven systems.
 
 Curious by nature and structured by training, I enjoy turning complex problems into clear, elegant solutions — whether through SQL queries, Python scripts, or UX prototypes.
 
-I thrive at the intersection of **data, logic, and creativity**, and believe that good engineering is not only about code efficiency but also about human impact.
+I have strong experience in Web & APIs, working with HTTP, JSON, cURL, and Browser DevTools, as well as API integration using LiteLLM and dotenv.
+I’ve also gained hands-on experience in NLP-based projects and troubleshooting AI-driven workflows — combining analytical precision with clear technical communication.
+
+I thrive at the intersection of data, logic, and creativity, and believe that good engineering is not only about code efficiency but also about human impact.
 
 ---
 
 ### Technical & Soft Skills
 
 - **Programming:** Python, Java, C, R, SQL, Shell scripting  
-- **Data & BI:** Data modeling, ETL, Tableau, Excel  
-- **Web & Databases:** Django, HTML/CSS, relational schema design, SQL Server  
+- **Data & BI:** Data modeling, ETL, Tableau, Excel
+- **Web & APIs:** HTTP, JSON, cURL, Browser DevTools, API integration with LiteLLM and dotenv
+- **Web & Databases:** Django, HTML/CSS, relational schema design, SQL Server, MySQL
 - **Operating Systems:** Windows, Linux (Ubuntu, WSL)  
 - **Core Concepts:** OOP, algorithms, system design, UX/UI, data analysis  
 - **Soft Skills:** Analytical thinking, collaboration, adaptability, and attention to detail  
