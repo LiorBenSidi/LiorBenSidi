@@ -30,6 +30,11 @@ I thrive at the intersection of **data, logic, and creativity**, and believe tha
 >The following projects and coursework assignments are available as individual repositories on my GitHub. <br/>
 Each title below links directly to its corresponding repository — feel free to explore the code, documentation, and detailed project descriptions for more insights.
 
+#### Natural Language Processing Course – [Final Project](https://github.com/LiorBenSidi/NLP_Project)
+Built an end-to-end evaluation pipeline for an LLM that converts natural-language basketball narratives into structured JSON box scores. Integrated multiple APIs using LiteLLM with key management (dotenv), automated request/response handling, and JSON validation.
+
+<hr align="center" width="50%" style="border:0.5px solid #ccc;"/>
+
 #### Database Management Course - [Relational Database Management System](https://github.com/LiorBenSidi/Final_Project)
 Developed an ERD-based relational system in SQL Server with a normalized schema, constraints, views, and complex queries with basic optimization, along with a Django app that includes validated forms and HTML/CSS, emphasizing data integrity.
 
